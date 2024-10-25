@@ -1,6 +1,6 @@
 # picograd
 
-Implementation of a scalar-valued backpropagation algorithm inspired from Micrograd (by Andrej Karpathy)
+Implementation of a small automatic differentiation library inspired from Micrograd (by Andrej Karpathy)
 
 1. tensor.py
 2. operations.py
