@@ -2,6 +2,7 @@
 
 Implementation of a small automatic differentiation library inspired from Micrograd (by Andrej Karpathy)
 
+## Modules
 1. tensor.py
 2. operations.py
 3. functions.py
